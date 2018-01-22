@@ -1,0 +1,27 @@
+
+body {
+    background-color: #BDC3C7;
+    margin: 0;
+    padding: 0;
+}   
+#board h1 {
+    font-size: 50px;
+}
+.box {
+    background-color: #757D75;
+}
+.create-column {
+    margin-left: 700px;
+}
+.column-title {
+    text-align: center;
+}
+div .column {
+    margin: 0 auto;
+}
+.column-card-list {
+    background-color: #F3C13A;
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+}
